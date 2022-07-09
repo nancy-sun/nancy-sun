@@ -1,6 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2800&color=BA6598&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+This+is+Nancy;Welcome+to+my+Github..;I'm+a...;(WIP)Software+Developer+%3AD;I+love...%F0%9F%8E%A7%E2%9C%88%EF%B8%8F%E2%9B%B7%F0%9F%94%AE%F0%9F%8E%AE%F0%9F%8D%A6...and+more..!;...;%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2900&color=9F5682&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+This+is+Nancy..;Welcome+to+my+Github+page..;I'm+a...;Web+Development+TA+%40+BrainStation;(WIP)Software+Developer;I+love...%E2%9C%88%EF%B8%8F%E2%9B%B7%F0%9F%8E%AE%F0%9F%8D%A6%F0%9F%94%AE......and%2Bmore..!;...%3C3)](https://git.io/typing-svg)
 
   
 ### Contact me at..
