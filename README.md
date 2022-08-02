@@ -10,6 +10,7 @@
     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancy-sun&show_icons=true&theme=omni&locale=en" alt="nancy-sun" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancy-sun&theme=omni" alt="nancy-sun" /></p>
 
 
 
