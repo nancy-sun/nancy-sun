@@ -1,6 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=9F5682&center=true&vCenter=true&width=480&lines=%F0%9F%91%8B+This+is+Nancy;Welcome+to+my+Github+page+%F0%9F%A5%B3;I'm+a...;Web+Development+TA+%40+Brainstation;Fullstack+Developer;I+love...%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%8C%8C%E2%9C%88%EF%B8%8F%E2%9B%B7%F0%9F%9B%B9%F0%9F%8D%A6%F0%9F%8E%AE%F0%9F%8E%A7...and+more..!;Connect+with+me+%E2%A4%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=9F5682&center=true&vCenter=true&width=485&lines=%F0%9F%91%8B+This+is+Nancy;Welcome+to+my+Github+page+%F0%9F%A5%B3;I'm+a...;Web+Development+TA+%40+Brainstation;Fullstack+Developer;I+love...%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%8C%8C%E2%9C%88%EF%B8%8F%E2%9B%B7%F0%9F%9B%B9%F0%9F%8D%A6%F0%9F%8E%AE%F0%9F%8E%A7...and+more..!;Connect+with+me+%E2%A4%B5)](https://git.io/typing-svg)
 
   
 ### Contact me:
