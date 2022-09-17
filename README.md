@@ -8,10 +8,10 @@
   <a href="https://github.com/nancy-sun" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>   <a href="https://linkedin.com/in/-nancy-sun" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   
     
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancy-sun&show_icons=true&theme=omni&locale=en" alt="nancy-sun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancy-sun&theme=omni" alt="nancy-sun" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancy-sun&show_icons=true&theme=omni)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nancy-sun&theme=omni)](https://git.io/streak-stats)
 
 
 
