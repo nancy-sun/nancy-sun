@@ -9,7 +9,6 @@
   
     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancy-sun&show_icons=true&theme=omni)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nancy-sun&theme=omni)](https://git.io/streak-stats)
 
