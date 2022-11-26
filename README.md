@@ -10,7 +10,7 @@
     
 
   
-![GitHub Streak](https://streak-stats.demolab.com?user=nancy-sun&theme=omni)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nancy-sun&theme=omni&hide_border=true)](https://git.io/streak-stats)
 
 
 
